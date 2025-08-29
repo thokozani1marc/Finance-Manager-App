@@ -154,6 +154,18 @@
     <Compile Include="SupplierEditForm.Designer.cs">
       <DependentUpon>SupplierEditForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="SupplierInvoiceEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierInvoiceEditForm.Designer.cs">
+      <DependentUpon>SupplierInvoiceEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierInvoicesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierInvoicesForm.Designer.cs">
+      <DependentUpon>SupplierInvoicesForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="SuppliersForm.cs">
       <SubType>Form</SubType>
     </Compile>

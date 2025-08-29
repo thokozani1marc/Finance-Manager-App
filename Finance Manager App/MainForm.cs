@@ -155,8 +155,8 @@ namespace Finance_Manager_App
 
         private void customersToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //var form = new CustomersForm();
-            //form.ShowDialog();
+            var form = new CustomersForm();
+            form.ShowDialog();
         }
 
         private void supplierInvoicesToolStripMenuItem_Click(object sender, EventArgs e)
