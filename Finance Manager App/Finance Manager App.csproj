@@ -122,6 +122,18 @@
     </Compile>
     <Compile Include="DataAccess.cs" />
     <Compile Include="DBConnection.cs" />
+    <Compile Include="ExpenseEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpenseEditForm.Designer.cs">
+      <DependentUpon>ExpenseEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpensesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExpensesForm.Designer.cs">
+      <DependentUpon>ExpensesForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
